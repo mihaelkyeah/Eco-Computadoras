@@ -1,0 +1,1 @@
+confirm("¡Aproveche las increíbles ofertas en nuestro catálogo!");

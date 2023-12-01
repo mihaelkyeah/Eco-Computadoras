@@ -1,0 +1,1 @@
+confirm("¿Está buscando manuales? Diríjase a la sección \"Descargas\" para encontrarlos.");

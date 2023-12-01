@@ -1,0 +1,1 @@
+confirm("¿Está buscando empleo? Visite la sección de OPORTUNIDADES DE TRABAJO en la página principal.");

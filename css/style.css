@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* GLOBAL STYLE */
+body {
+    font-family: 'Chivo', 'Verdana', 'Liberation Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+section {
+    margin: 1em 0;
+    padding: 1em;
+}
+
+/* HEADER */
+header.header {
+    background: #111;
+    margin: 0;
+    height: 12em;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-between;
+}
+
+/* LOGO */
+div.text-logo {
+    margin: 0;
+    padding: 0.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 15em;
+    height: 100%;
+}
+h1.text-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 96pt;
+    font-weight: 900;
+    color: crimson;
+    line-height: 0.5em;
+    margin: 0;
+    padding: 0.1em 0;
+    letter-spacing: -0.1ch;
+    
+}
+h1.text-logo span.logo-world {
+    font-size: 64pt;
+    margin-left: -0.05ch;
+    text-shadow: #fff 0px 0px 3px;
+    
+}
+span.text-logo-span {
+    color: #f7f7f7;
+    text-align: center;
+    width: 100%;
+}
+
+/* NAVIGATION */
+nav.nav {
+    background: #f7f7f7;
+    width: 100%;
+}
+ul.nav-ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    list-style-position: inside;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+li.nav-li {
+    width: 25%;
+    text-align: center;
+    height: 2.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 16pt;
+    font-weight: 700;
+    color: crimson;
+    letter-spacing: 0.05ch;
+}
+li.nav-li:hover {
+    background: #111;
+    color: #f7f7f7;
+}
+li.nav-li.active {
+    background: crimson;
+    color: #f7f7f7;
+}
