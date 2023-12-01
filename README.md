@@ -1,24 +1,4 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-    body { font-family: 'Chivo', sans-serif }
-    h1 {
-        font-size: 36pt;
-        border: none;
-        color: crimson;
-        font-weight: 900;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        margin: 0;
-    }
-    h1 .span-emoji {
-        font-size: 75%;
-        margin: 0 0.25ch 0 -0.25ch;
-    }
-    h3 { margin: 0; }
-    hr { margin: 1em 0; }
-</style>
-<h1>EC<span class="span-emoji">🌍</span> Computadoras</h1>
+<h1>EC<span>🌍</span> Computadoras</h1>
 <h3>La Perfección en Computación</h3>
 <h4>by Francisco Hernández</h4>
 
