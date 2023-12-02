@@ -83,10 +83,12 @@ li.nav-li {
     font-weight: 700;
     color: crimson;
     letter-spacing: 0.05ch;
+    transition: all ease-out 150ms;
 }
 li.nav-li:hover {
     background: #111;
     color: #f7f7f7;
+    cursor: pointer;
 }
 li.nav-li.active {
     background: crimson;

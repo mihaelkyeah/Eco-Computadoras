@@ -1,0 +1,38 @@
+/* COMPUTERS */
+.computer-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 1em;
+    align-items: flex-start;
+    justify-content: space-around
+}
+.computer-card {
+    display: flex;
+    flex-direction: column;
+    width: calc(30% - 1em);
+    padding: 1em;
+    margin: 0 0 1em 0;
+    transition: all ease-out 150ms;
+    background: #e7e7e777;
+}
+.computer-card:hover {
+    transform: scale(1.1);
+    /* cursor: pointer; */
+    background: #a7a7a777;
+}
+.computer-card img {
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+}
+.computer-card h1,
+.computer-card h2,
+.computer-card h3,
+.computer-card h4,
+.computer-card h5,
+.computer-card h6,
+.computer-card p {
+    margin: 0.5ch 0 1ch 0 ;
+}
