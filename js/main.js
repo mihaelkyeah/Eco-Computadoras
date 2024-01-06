@@ -1,5 +1,10 @@
 "use strict";
 
+// === GLOBAL VARIABLES ===
+// Get relative location
+let loc = window.location.pathname;
+var currentDirectory = loc.substring(0, loc.lastIndexOf('/'));
+
 // === NAVIGATION ===
 
     document.querySelector("#nav-home").addEventListener("click", () => {

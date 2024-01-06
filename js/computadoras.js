@@ -28,7 +28,7 @@ function appendComputer(computer, compType, computerGridDivID) {
     computerCard.classList.add("computer-card");
 
     let image = document.createElement("img");
-    image.src = "/img/"+compType+"/"+computer.imagen;
+    image.src = currentDirectory+"/img/"+compType+"/"+computer.imagen;
     computerCard.appendChild(image);
 
     let model = document.createElement("h2");

@@ -29,7 +29,7 @@ window.addEventListener("load", () => {
             let compType = computadora.tipo === "Escritorio" ? "desktop" : "laptop";
 
             let image = document.createElement("img");
-            image.src = "/img/"+compType+"/"+computadora.imagen;
+            image.src = currentDirectory+"/img/"+compType+"/"+computadora.imagen;
             container.appendChild(image);
 
             let model = document.createElement("h2");
