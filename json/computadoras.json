@@ -59,6 +59,18 @@
         "tipoDisco": "Sólido",
         "capacidadDisco": 480
     },
+	{
+        "modelo": "EC-525",
+        "tipo": "Escritorio",
+        "imagen": "EC-525.png",
+        "precioARS": 262144,
+        "precioUSD": 262,
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
+        "procesador": "Intel i5 57900",
+        "memoria": 16,
+        "tipoDisco": "Sólido",
+        "capacidadDisco": 960
+    },
     {
         "modelo": "ECL-123",
         "tipo": "Laptop",
