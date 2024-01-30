@@ -2,7 +2,7 @@
     {
         "modelo": "EC-125",
         "tipo": "Escritorio",
-        "imagen": "EC-125.png",
+        "imagen": "EC-125.jpg",
         "precioARS": 32768,
         "precioUSD": 32,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
@@ -14,7 +14,7 @@
     {
         "modelo": "EC-250",
         "tipo": "Escritorio",
-        "imagen": "EC-250.png",
+        "imagen": "EC-250.jpg",
         "precioARS": 65536,
         "precioUSD": 65,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
@@ -26,7 +26,7 @@
     {
         "modelo": "EC-270A",
         "tipo": "Escritorio",
-        "imagen": "EC-270A.png",
+        "imagen": "EC-270A.jpg",
         "precioARS": 32768,
         "precioUSD": 32,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
@@ -38,7 +38,7 @@
     {
         "modelo": "EC-270B",
         "tipo": "Escritorio",
-        "imagen": "EC-270B.png",
+        "imagen": "EC-270B.jpg",
         "precioARS": 65536,
         "precioUSD": 65,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
@@ -50,7 +50,7 @@
     {
         "modelo": "EC-325",
         "tipo": "Escritorio",
-        "imagen": "EC-325.png",
+        "imagen": "EC-325.jpg",
         "precioARS": 131072,
         "precioUSD": 131,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
@@ -62,7 +62,7 @@
 	{
         "modelo": "EC-525",
         "tipo": "Escritorio",
-        "imagen": "EC-525.png",
+        "imagen": "EC-525.jpg",
         "precioARS": 262144,
         "precioUSD": 262,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum harum id dolores facere, dolor eius, impedit nulla doloribus, tempore eligendi culpa! Animi, tenetur maiores. Magnam, omnis porro! Tempore, vitae ducimus.",
@@ -74,7 +74,7 @@
     {
         "modelo": "ECL-123",
         "tipo": "Laptop",
-        "imagen": "ECL-123.png",
+        "imagen": "ECL-123.jpg",
         "precioARS": 262144,
         "precioUSD": 262,
         "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni non voluptate voluptatem! Illo ipsam facilis fuga beatae ipsa dolores, totam ratione qui dolore? Magnam, qui numquam distinctio officiis aliquid sequi?",
@@ -86,7 +86,7 @@
     {
         "modelo": "ECL-234",
         "tipo": "Laptop",
-        "imagen": "ECL-234.png",
+        "imagen": "ECL-234.jpg",
         "precioARS": 131072,
         "precioUSD": 131,
         "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. In perferendis doloremque pariatur enim! Distinctio molestiae in temporibus, accusamus et dolore. Accusantium, eius repudiandae. Perspiciatis, culpa molestias! Qui ad eos vel?",
@@ -98,7 +98,7 @@
     {
         "modelo": "ECL-345",
         "tipo": "Laptop",
-        "imagen": "ECL-345.png",
+        "imagen": "ECL-345.jpg",
         "precioARS": 262144,
         "precioUSD": 262,
         "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex a dolore suscipit fugiat neque minima ducimus dolorum quisquam, similique unde iure laborum reprehenderit ut maxime iste cumque dolores, consectetur debitis.",
@@ -110,7 +110,7 @@
     {
         "modelo": "ECL-456",
         "tipo": "Laptop",
-        "imagen": "ECL-456.png",
+        "imagen": "ECL-456.jpg",
         "precioARS": 131072,
         "precioUSD": 131,
         "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit, quia. Quidem beatae perferendis quod blanditiis impedit sunt est quibusdam veniam recusandae! Hic facere voluptate dicta aliquam accusamus impedit alias vel.",
@@ -122,7 +122,7 @@
     {
         "modelo": "ECL-567",
         "tipo": "Laptop",
-        "imagen": "ECL-567.png",
+        "imagen": "ECL-567.jpg",
         "precioARS": 131072,
         "precioUSD": 131,
         "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi deleniti libero exercitationem, odio cupiditate dicta! Natus, voluptatibus. Provident blanditiis illum fugiat officia, tenetur earum sit quam natus, pariatur culpa explicabo.",
@@ -134,7 +134,7 @@
     {
         "modelo": "ECL-678",
         "tipo": "Laptop",
-        "imagen": "ECL-678.png",
+        "imagen": "ECL-678.jpg",
         "precioARS": 262144,
         "precioUSD": 262,
         "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias enim culpa tempora neque, error repellat odio ex quia minus. Corrupti exercitationem fugit iusto est neque ex dolores delectus laboriosam cumque.",
@@ -146,7 +146,7 @@
     {
         "modelo": "ECL-789",
         "tipo": "Laptop",
-        "imagen": "ECL-789.png",
+        "imagen": "ECL-789.jpg",
         "precioARS": 131072,
         "precioUSD": 131,
         "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure esse fugit aspernatur fuga odit neque repellat adipisci cupiditate vero atque, ab quasi quibusdam blanditiis ex ipsam? Nisi, amet? Sint, iure.",
@@ -158,7 +158,7 @@
     {
         "modelo": "ECL-890",
         "tipo": "Laptop",
-        "imagen": "ECL-890.png",
+        "imagen": "ECL-890.jpg",
         "precioARS": 262144,
         "precioUSD": 262,
         "descripcion": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis laudantium, ex labore accusamus, eos sequi fugit quo inventore iure cupiditate nisi saepe, tempora ad nam. Reprehenderit exercitationem magnam rem consequuntur.",
@@ -170,7 +170,7 @@
     {
         "modelo": "ECL-901",
         "tipo": "Laptop",
-        "imagen": "ECL-901.png",
+        "imagen": "ECL-901.jpg",
         "precioARS": 262144,
         "precioUSD": 262,
         "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam doloribus ipsum assumenda quod vitae consequuntur, veniam nemo dicta inventore tempore officiis quis cumque temporibus dolore saepe quam pariatur ex id.",
