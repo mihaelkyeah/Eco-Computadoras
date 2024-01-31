@@ -79,14 +79,17 @@ li.nav-li {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     font-size: 16pt;
     font-weight: 700;
     color: crimson;
+    background-image: radial-gradient(rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.15) 30%, rgba(0,0,0,0.12) 50%, rgba(0,0,0,0.12) 75%, rgba(0,0,0,0.25) 100%);
     letter-spacing: 0.05ch;
     transition: all ease-out 150ms;
 }
 li.nav-li:hover {
-    background: #111;
+    background: #000;
+    background-image: radial-gradient(rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.15) 30%, rgba(255,255,255,0.12) 50%, rgba(255,255,255,0.12) 75%, rgba(255,255,255,0.25) 100%);
     color: #f7f7f7;
     cursor: pointer;
 }
@@ -94,3 +97,24 @@ li.nav-li.active {
     background: crimson;
     color: #f7f7f7;
 }
+@media only screen and (max-width: 800px) {    
+    ul.nav-ul {
+        flex-direction: column;
+        width: 100%;
+        /* margin-bottom: 6em; */
+    }
+    li.nav-li {
+        flex-direction: row;
+        width: 100%;
+    }
+    section#main {
+        padding-top: 9em;
+    }
+}
+.btn.btn-primary { background: #812 }
+.btn.btn-secondary { background: #666 }
+.btn.btn-success { background: #192 }
+.btn.btn-warning { background: #F81; color: #111; }
+.btn.btn-danger { background: #C22 }
+.btn.btn-info { background: #26C }
+.btn.btn-primary, .btn.btn-secondary, .btn.btn-success, .btn.btn-danger, .btn.btn-info { color: #f7f7f7 }

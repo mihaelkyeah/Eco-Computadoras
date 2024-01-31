@@ -86,3 +86,63 @@
 .my-auto { margin-top: auto; margin-bottom: auto; }
 
 .text-center { text-align: center; }
+
+.d-flex { display: flex; }
+.flex-row { flex-direction: row; }
+.flex-column { flex-direction: column; }
+
+.justify-content-start { justify-content: flex-start }
+.justify-content-center { justify-content: center }
+.justify-content-end { justify-content: flex-end }
+.justify-content-baseline { justify-content: baseline }
+.justify-content-stretch { justify-content: stretch }
+
+.justify-content-around { justify-content: space-around }
+.justify-content-between { justify-content: space-between }
+.justify-content-evenly { justify-content: space-evenly }
+.justify-content-safe { justify-content: safe }
+
+.align-items-start { align-items: flex-start }
+.align-items-center { align-items: center }
+.align-items-end { align-items: flex-end }
+.align-items-baseline { align-items: baseline }
+.align-items-stretch { align-items: stretch }
+
+.btn, .rounded { border-radius: 0.5em; }
+.rounded-2 { border-radius: 1em; }
+.rounded-3 { border-radius: 1.5em; }
+.rounded-4 { border-radius: 2em; }
+.rounded-5 { border-radius: 2.5em; }
+.btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5ch 2ch;
+    font-size: 10pt;
+    font-family: inherit;
+    border-top: inset 0.75ch #ffffff22;
+    border-left: inset 0.75ch #ffffff22;
+    border-bottom: inset 0.75ch #ffffff03;
+    border-right: inset 0.75ch #ffffff03;
+    box-shadow: 1px 1px 10px #77777711, 
+            -1px -1px 10px #ffffff11;
+    transition: all linear 12ms;
+}
+.btn:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    box-shadow: 1px 1px 10px #ffffff17,
+            -1px -1px 10px #ffffff17;
+    border-top: inset 0.75ch #ffffff17;
+    border-left: inset 0.75ch #ffffff17;
+    border-bottom: inset 0.75ch #ffffff05;
+    border-right: inset 0.75ch #ffffff05;
+}
+.btn:active {
+    border-top: inset 0.85ch #ffffff11;
+    border-left: inset 0.85ch #ffffff11;
+    border-bottom: inset 0.85ch #ffffff11;
+    border-right: inset 0.85ch #ffffff11;
+    transform: scale(1.02)
+}

@@ -1,0 +1,11 @@
+h1 {
+    font-size: 24pt;
+}
+section#trabajo {
+    color: #f7f7f7;
+    background: linear-gradient(90deg, #111 0%, #412 62%, #77112277);
+    padding: 2em;
+}
+section#trabajo p {
+    font-size: 14pt;
+}
